@@ -271,7 +271,7 @@
         <target state="translated"><x id="INTERPOLATION" equiv-text="barConfig);  pu"/></target>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Digimeric.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -543,7 +543,7 @@
         <target state="translated">Xem tài liệu hoặc truy cập dự án trên GitHub để tìm hiểu thêm hoặc báo cáo sự cố.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Digimeric!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">252</context>

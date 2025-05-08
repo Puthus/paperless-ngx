@@ -271,7 +271,7 @@
         <target state="needs-translation"><x id="INTERPOLATION" equiv-text="barConfig);  pu"/></target>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Digimeric.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -543,7 +543,7 @@
         <target state="translated">필수적인 기능을 다 알아봤습니다. 그렇지만 지금 여기서 다루지 못한 &lt;em&gt;수 많은 기능&lt;/em&gt;들이 기다리고 있습니다. 기술문서 또는 프로젝트 Github에 방문하여 더 알아보거나 사용 중 발생한 이슈를 제보해주세요.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Digimeric!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">252</context>

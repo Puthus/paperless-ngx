@@ -271,7 +271,7 @@
         <target state="needs-translation"><x id="INTERPOLATION" equiv-text="barConfig);  pu"/></target>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Digimeric.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -543,12 +543,12 @@
         <target state="translated">Ada &lt;em&gt;banyak sekali fitur dan informasi&lt;/em&gt; yang tidak kami bahas di sini, tetapi ini bisa membantu Anda untuk memulai. Lihatlah dokumentasi atau kunjungi proyek ini di GitHub untuk mempelajari lebih lanjut atau melaporkan masalah.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Digimeric!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">252</context>
         </context-group>
-        <target state="translated">Terakhir, atas nama setiap kontributor untuk proyek yang didukung komunitas ini, terima kasih telah menggunakan Paperless-ngx!</target>
+        <target state="translated">Terakhir, atas nama setiap kontributor untuk proyek yang didukung komunitas ini, terima kasih telah menggunakan Digimeric!</target>
       </trans-unit>
       <trans-unit id="9063918187161876141" datatype="html">
         <source>Application Configuration</source>
@@ -7100,7 +7100,7 @@
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target state="translated">Terima kasih telah menjadi bagian dalam komunitas Paperless-ngx!</target>
+        <target state="translated">Terima kasih telah menjadi bagian dalam komunitas Digimeric!</target>
       </trans-unit>
       <trans-unit id="1415832194529539652" datatype="html">
         <source>Start the tour</source>

@@ -271,7 +271,7 @@
         <target state="needs-translation"><x id="INTERPOLATION" equiv-text="barConfig);  pu"/></target>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Digimeric.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -543,12 +543,12 @@
         <target state="translated">هناك &lt;em&gt;أطنان&lt;/em&gt; المزيد من الميزات والمعلومات التي لم نغطيها هنا، ولكن يجب يكون هذا كافيا لك للبداية. يرجى مراجعة المستندات أو زيارة المشروع على GitHub لمعرفة المزيد أو للإبلاغ عن المشكلات.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Digimeric!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">252</context>
         </context-group>
-        <target state="translated">أخيرا، بالنيابة عن كل مساهم في هذا المشروع المدعوم من المجتمع، شكرا لك على استخدام Paperless-ngx!</target>
+        <target state="translated">أخيرا، بالنيابة عن كل مساهم في هذا المشروع المدعوم من المجتمع، شكرا لك على استخدام Digimeric!</target>
       </trans-unit>
       <trans-unit id="9063918187161876141" datatype="html">
         <source>Application Configuration</source>
@@ -7076,7 +7076,7 @@
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">2</context>
         </context-group>
-        <target state="translated">يعمل Paperless-ngx!</target>
+        <target state="translated">يعمل Digimeric!</target>
       </trans-unit>
       <trans-unit id="3326049540711826572" datatype="html">
         <source>You&apos;re ready to start uploading documents! Explore the various features of this web app on your own, or start a quick tour using the button below.</source>
@@ -7100,7 +7100,7 @@
           <context context-type="sourcefile">src/app/components/dashboard/widgets/welcome-widget/welcome-widget.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target state="translated">شكرًا لك لكونك جزءًا من مجتمع Paperless-ngx!</target>
+        <target state="translated">شكرًا لك لكونك جزءًا من مجتمع Digimeric!</target>
       </trans-unit>
       <trans-unit id="1415832194529539652" datatype="html">
         <source>Start the tour</source>

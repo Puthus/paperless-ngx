@@ -271,7 +271,7 @@
         <target state="translated"><x id="INTERPOLATION" equiv-text="barConfig);  pu"/></target>
       </trans-unit>
       <trans-unit id="3527354815023530656" datatype="html">
-        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Paperless-ngx.</source>
+        <source>Document <x id="PH" equiv-text="status.filename"/> was added to Digimeric.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">95</context>
@@ -543,12 +543,12 @@
         <target state="translated">Ima &lt;em&gt;mnogo&lt;/em&gt; više funkcija i informacija koje ovde nismo pokrili, ali ovo bi trebalo da Vas pokrene. Pogledajte dokumentaciju ili posetite projekat na GitHub-u da biste saznali više ili prijavili probleme.</target>
       </trans-unit>
       <trans-unit id="4270528545616947218" datatype="html">
-        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Paperless-ngx!</source>
+        <source>Lastly, on behalf of every contributor to this community-supported project, thank you for using Digimeric!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/app.component.ts</context>
           <context context-type="linenumber">252</context>
         </context-group>
-        <target state="translated">Na kraju, u ime svih koji doprinose ovom projektu koji podržava zajednica, hvala Vam što koristite Paperless-ngx!</target>
+        <target state="translated">Na kraju, u ime svih koji doprinose ovom projektu koji podržava zajednica, hvala Vam što koristite Digimeric!</target>
       </trans-unit>
       <trans-unit id="9063918187161876141" datatype="html">
         <source>Application Configuration</source>
